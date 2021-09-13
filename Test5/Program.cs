@@ -6,7 +6,7 @@ namespace Test5
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine($"Hello World! Own Practic");
         }
     }
 }
